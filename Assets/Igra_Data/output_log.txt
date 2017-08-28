@@ -1,0 +1,59 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630 (ID=0xf00)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Kaish\Documents\First Game\Assets\Igra_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.840 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.774259 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1884 -> priority: 1 
+  Thread -> id: 2c20 -> priority: 1 
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.986733 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.335346 ms (FindLiveObjects: 0.053895 ms CreateObjectMapping: 0.041490 ms MarkObjects: 0.232262 ms  DeleteObjects: 0.005988 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.805431 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.435865 ms (FindLiveObjects: 0.069721 ms CreateObjectMapping: 0.030369 ms MarkObjects: 0.316954 ms  DeleteObjects: 0.017109 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.793882 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.337913 ms (FindLiveObjects: 0.058172 ms CreateObjectMapping: 0.027803 ms MarkObjects: 0.244238 ms  DeleteObjects: 0.006416 ms)
+
